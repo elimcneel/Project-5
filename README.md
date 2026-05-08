@@ -1,0 +1,1 @@
+This is our submission for Project 5. It includes a Gannt Chart, Technical Summary, Nontechnical Summary, Invoice/Timesheet, Scope of Work, Annotated Code Document, the code itself, and a Project Report.
